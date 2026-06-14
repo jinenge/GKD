@@ -7,7 +7,7 @@ github仓库的配置地址https://raw.githubusercontent.com/jinenge/gdk/refs/he
 
 # GKD软件下载
    <br>
-   <a href="https://github.com/gkd-kit/gkd">
+   <a href="https://github.com/gkd-kit/gkd/releases">
      点击这里进入 
   </a>
    <br>
