@@ -3,7 +3,7 @@ gdk自用跳开那些手机打开应用的烦人广告，让那些广告从我�
 
 # GKD进恩哥版(订阅配置)
 官网配置https://jinenge.us.kg/app/gkd/gkd.json5   <br>
-github仓库的配置地址https://raw.githubusercontent.com/jinenge/gkd/refs/heads/main/gdk.json5
+github仓库的配置地址https://raw.githubusercontent.com/jinenge/gkd/refs/heads/main/gkd.json5
 
 # GKD软件下载
    <br>
